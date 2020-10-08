@@ -29,4 +29,4 @@ This plug-in adds Git features to Foxit PhantomPDF (PDF Editor).  The idea is to
 This project uses library from https://github.com/libgit2/libgit2
 
 # Foxit Student Bounty Project
-Are you a student who is interested in this project?  This project is a part of the Foxit Student Bounty Project.   Complete this project or create any other educational Plug-in for Foxit PhantomPDF and get some incentive for doing it.  Check out [Foxit Student Bounty Project Details] (http://sync-us.foxitsoftware.com/se/Huy/ED/BountyProgram/FoxitBountyDetails.pdf) for more details.
+Are you a student who is interested in this project?  This project is a part of the Foxit Student Bounty Project.   Complete this project or create any other educational Plug-in for Foxit PhantomPDF and get some incentive for doing it.  Check out [Foxit Student Bounty Project Details](http://sync-us.foxitsoftware.com/se/Huy/ED/BountyProgram/FoxitBountyDetails.pdf) for more details.
