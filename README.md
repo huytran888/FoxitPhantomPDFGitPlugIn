@@ -2,9 +2,9 @@
 This plug-in adds Git features to Foxit PhantomPDF (PDF Editor).  The idea is to help with keeping revision of PDFs that exist in git repositories.  
 
 # Prerequisites
-Install Foxit PhantomPDF 10.x (Windows) or higher.  You can download the trial here: https://www.foxitsoftware.com/downloads/#Foxit-PhantomPDF-Business/.
-The project will output files to "C:\Program Files (x86)\Foxit Software\Foxit PhantomPDF" and "C:\Program Files (x86)\Foxit Software\Foxit PhantomPDF\plugins". You will need to grant permissions to allow this to occur.  Using "Windows Explorer", got to both directory directory, right click and choose "Properties," select the "Security", select "User (XXXX\Users)", select "Edit", and set "Full control" to allow.
-Install Visual Studio 2010 to 2017
+* Install Foxit PhantomPDF 10.x (Windows) or higher.  You can download the trial here: https://www.foxitsoftware.com/downloads/#Foxit-PhantomPDF-Business/.
+* The project will output files to "C:\Program Files (x86)\Foxit Software\Foxit PhantomPDF" and "C:\Program Files (x86)\Foxit Software\Foxit PhantomPDF\plugins". You will need to grant permissions to allow this to occur.  Using "Windows Explorer", got to both directory directory, right click and choose "Properties," select the "Security", select "User (XXXX\Users)", select "Edit", and set "Full control" to allow.
+* Install Visual Studio 2010 to 2017
 
 # Building
 * Open Samples\RibbonElements\RibbonElements.sln with Visual Studio
@@ -27,3 +27,6 @@ Install Visual Studio 2010 to 2017
 
 # Credit
 This project uses library from https://github.com/libgit2/libgit2
+
+# Foxit Student Bounty Project
+Are you a student who is interested in this project?  This project is a part of the Foxit Student Bounty Project.   Complete this project or create any other educational Plug-in for Foxit PhantomPDF and get some incentive for doing it.  Check out [Foxit Student Bounty Project Details] (http://sync-us.foxitsoftware.com/se/Huy/ED/BountyProgram/FoxitBountyDetails.pdf) for more details.
