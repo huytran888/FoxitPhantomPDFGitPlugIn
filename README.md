@@ -7,7 +7,7 @@ The project will output files to "C:\Program Files (x86)\Foxit Software\Foxit Ph
 Install Visual Studio 2010 to 2017
 
 # Building
-* Open RibbonElements.sln with Visual Studio
+* Open Samples\RibbonElements\RibbonElements.sln with Visual Studio
 * Build and Run
 
 # Test
