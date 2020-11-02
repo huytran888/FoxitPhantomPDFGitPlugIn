@@ -90,7 +90,7 @@
     <PreBuildEvent>
       <Command>tasklist /fi "imagename eq FoxitPhantomPDF.exe" |find ":" &gt; nul
 if errorlevel 1 taskkill /f /im "FoxitPhantomPDF.exe"
-regedit.exe /s "$(SolutionDir)..\..\Tools\registerRibbonElementEDrive.reg"</Command>
+regedit.exe /s "$(SolutionDir)..\..\Tools\Register$(ProjectName).reg"</Command>
     </PreBuildEvent>
     <PreLinkEvent>
       <Command>copy $(SolutionDir)lib\git2.* "E:\Program Files (x86)\Foxit Software\Foxit PhantomPDF\plugins" /y
